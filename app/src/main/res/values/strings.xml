@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="tv_tvria">TVRIA</string>
+    <string name="btn_peliculas">Peliculas</string>
+    <string name="btn_Kids" />
+    <string name="btn_kids">Kids</string>
+    <string name="btn_series">Series</string>
+    <string name="btn_anime">Anime</string>
+    <string name="tx_title">TVRIA APP</string>
+</resources>
